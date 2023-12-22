@@ -102,7 +102,7 @@ Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 
 ![Audios panel](images/extension_audios.png)
 
-## features
+## caractéristiques
 
 -   Protocole HTTP, HTTPS (les fonctionnalités de base telles que gzip, reprise, multi-connexions ne seront pas répertoriées.) 1.0
 -   FTP, protocole FTPS 1.0
@@ -184,7 +184,7 @@ Cela rendra le logiciel plus accessible aux personnes parlant des langues autres
 
 | Langue               | @                                                                                         |
 | :------------------- | :---------------------------------------------------------------------------------------- |
-| russe                | [@vanja-san](https://github.com/vanja-san) [@Den1704](https://github.com/Den1704)         |
+| russe                | [@vanja-san](https://github.com/vanja-san)[@Den1704](https://github.com/Den1704)          |
 | chinois traditionnel | [@ours0316](https://github.com/bear0316)[@postman1année](https://github.com/postman1year) |
 | Français             | [@Ksahikh](https://github.com/XIAA25)                                                     |
 | Néerlandais          | [@Ksahikh](https://github.com/XIAA25)                                                     |

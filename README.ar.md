@@ -1,4 +1,4 @@
-[إنجليزي](./README.md)\|[الصينية المبسطة](./README.zh-CN.md)\|[الصينية التقليدية](./README.zh-TW.md)\|[الكورية](./README.ko.md)\|[لا](./README.hi.md)\|[عربي](./README.ar.md)\|[فرنسي](./README.fr.md)\|[الروسية](./README.ru.md)\|[اللاتينية](./README.la.md)\|[اليابانية](./README.ja.md)\|[ايطالي](./README.it.md)\|[ألماني](./README.de.md)\|[الأسبانية](./README.es.md)\|[السويدية](./README.sv.md)\|[الفارسية](./README.fa.md)\|[اللغة التركية](./README.tr-TR.md)
+[إنجليزي](./README.md)\|[الصينية المبسطة](./README.zh-CN.md)\|[الصينية التقليدية](./README.zh-TW.md)\|[الكورية](./README.ko.md)\|[لا](./README.hi.md)\|[عربي](./README.ar.md)\|[فرنسي](./README.fr.md)\|[الروسية](./README.ru.md)\|[Latin](./README.la.md)\|[اليابانية](./README.ja.md)\|[ايطالي](./README.it.md)\|[ألماني](./README.de.md)\|[الأسبانية](./README.es.md)\|[السويدية](./README.sv.md)\|[الفارسية](./README.fa.md)\|[اللغة التركية](./README.tr-TR.md)
 
 ![image](https://user-images.githubusercontent.com/100348948/165334090-0b1a6f28-554e-484b-9946-1ffef010fa78.png)
 
@@ -30,7 +30,8 @@ File Centipede هو مدير تحميل/تنزيل ملفات الإنترنت �
 
 #### ملف حريش
 
-![File Centipede](images/screenshot_software.png)![File Centipede](images/screenshot_software2.png)![File Centipede](images/screenshot_software_file_browser_webdav.png)![File Centipede](images/screenshot_software_file_browser_ssh.png)![File Centipede](images/screenshot_software_file_browser_ftp.png)![File Centipede](images/screenshot_software_file_browser_add.png)![File Centipede](images/screenshot_software_file_browser_log.png)
+![File Centipede](images/screenshot_software.png)![File Centipede](images/screenshot_software2.png)![File Centipede](images/screenshot_software_file_browser_webdav.png)![File Centipede](images/screenshot_software_file_browser_ssh.png)
+![File Centipede](images/screenshot_software_file_browser_ftp.png)![File Centipede](images/screenshot_software_file_browser_add.png)![File Centipede](images/screenshot_software_file_browser_log.png)
 
 #### إضافة مهمة
 
@@ -115,7 +116,7 @@ File Centipede هو مدير تحميل/تنزيل ملفات الإنترنت �
 -   ملف تعريف ارتباط HTTP، والرأس، ووكيل المستخدم مع تخصيص المستخدم 1.0
 -   حد البذر سيل 1.0
 -   تحرير تكوين مهمة النقل 1.0 ديناميكيًا
--   مكافحة العلق 1.0
+-   Anti leeches	1.0
 -   تحديث العنوان منتهي الصلاحية 1.0
 -   الكتالوجات 1.0
 -   الحد من التنزيل وسرعة التحميل 1.0
@@ -150,7 +151,7 @@ File Centipede هو مدير تحميل/تنزيل ملفات الإنترنت �
 -   تحميل الدليل 2.0
 -   مدير ملفات WebDAV (برامج) كامل المواصفات 2.0
 -   مدير ملفات FTP (ملفات) كامل المواصفات 2.0
--   Full-featured SSH(sftp) file manager	2.0
+-   مدير ملفات SSH(sftp) كامل المواصفات 2.0
 -   ذاكرة التخزين المؤقت المستمرة لمتصفح الملفات 2.0
 -   قواعد الموقع 2.1
 -   أداة المجموع الاختباري 2.3
@@ -174,7 +175,7 @@ File Centipede هو مدير تحميل/تنزيل ملفات الإنترنت �
 
 ## ملفات اللغة
 
--   موقع الويب: "lang/website/\*.lang"
+-   Website:  "lang/website/\*.lang"
 -   البرنامج: "lang/software/\*.lang"
 -   ملحق المتصفح: "lang/browser_extension/\*.lang"
 
@@ -186,13 +187,13 @@ File Centipede هو مدير تحميل/تنزيل ملفات الإنترنت �
 | :---------------- | :--------------------------------------------------------------------------------------- |
 | الروسية           | [@فانجا-سان](https://github.com/vanja-san)[@دن1704](https://github.com/Den1704)          |
 | الصينية التقليدية | [@bear0316](https://github.com/bear0316)[@postman1year](https://github.com/postman1year) |
-| فرنسي             | [@XIAA25](https://github.com/XIAA25)                                                     |
+| فرنسي             | [@كسائخ](https://github.com/XIAA25)                                                      |
 | هولندي            | [@كسائخ](https://github.com/XIAA25)                                                      |
 | الكورية           | [@فينوسجيرل](https://github.com/VenusGirl)                                               |
 | الفيتنامية        | [@vuongtuha](https://github.com/vuongtuha)                                               |
 | اللغة التركية     | [@geeede](https://github.com/geeede)[@سوران](https://github.com/saurane)                 |
 | الاندونيسية       | [@gigglylo](https://github.com/gigglylo)                                                 |
-| ألماني            | [@فولكانرافين91](https://github.com/Vulcanraven91)                                       |
+| ألماني            | [@Vulcanraven91](https://github.com/Vulcanraven91)                                       |
 | اليابانية         | [@wany-أوه](https://github.com/wany-oh)                                                  |
 | تلميع             | [@رونوهوك](https://github.com/RunoHawk)                                                  |
 
